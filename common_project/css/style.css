@@ -1,0 +1,49 @@
+/* <link rel="stylesheet" href="/css?family=Tangerine"> */
+
+/* Overall Page Styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #8BABF1;
+    background-color:#CFEBB6;
+    line-height: 1.6;
+}
+
+/* Header Styles */
+h1 {
+    font-size: 36px; 
+    font-family: 'Verdana', sans-serif;
+    color: #C44601;
+    text-align: center;
+}
+
+/* Sub-Header Styles */
+h2, h3{
+    font-size: 24px; 
+    font-family: 'Helvetica', sans-serif; 
+    color: #B51963; 
+}
+
+
+/* Paragraph Styles */
+p {
+    line-height: 2;
+}
+
+/* Image Styles */
+img {
+    border: 5px solid #FFA500; 
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+/* List Item Styles */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-left: 50px;
+}
