@@ -3,7 +3,7 @@
 /* Overall Page Styles */
 body {
     font-family: Arial, sans-serif;
-    color: #8BABF1;
+    color: #6a93ed;
     background-color:#CFEBB6;
     line-height: 1.6;
 }
@@ -36,6 +36,9 @@ img {
     margin: 20px;
     border-top-right-radius: 30px;
 }
+nav {
+    border: 2px solid black;
+}
 
 /* List Item Styles */
 ul {
@@ -46,4 +49,21 @@ ul {
 li {
     display: inline-block;
     margin-left: 50px;
+}
+nav a {
+    background-color: white;
+    padding: 2px;
+    margin: 20px;
+}
+
+#skip {
+    text-transform: uppercase;
+}
+
+.up {
+    border: 3px dashed violet;
+    margin-top: 20px;
+    padding: 20px;
+    width: 250px;
+    border-radius: 25px;
 }
