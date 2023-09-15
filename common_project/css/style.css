@@ -67,3 +67,12 @@ nav a {
     width: 250px;
     border-radius: 25px;
 }
+
+#skip {
+    position: absolute;
+    left: -500px;
+}
+
+#skip:focus{
+    left: 500px;
+}
